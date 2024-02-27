@@ -6,7 +6,7 @@
 <body>
  
  <h2>RPL 2024</h2>
- <h3>Data Pegawai</h3>
+ <h3>Data Pegawai Kantor</h3>
  
  <a href="/pegawai/tambah"> + Tambah Pegawai Baru</a>
  
