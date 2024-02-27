@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>Tutorial Membuat CRUD Pada Laravel - www.malasngoding.com</title>
+ <title>Kelompok 6 - Rekayasa Perangkat Lunak</title>
 </head>
 <body>
  
- <h2>www.malasngoding.com</h2>
+ <h2>RPL 2024</h2>
  <h3>Data Pegawai</h3>
  
  <a href="/pegawai/tambah"> + Tambah Pegawai Baru</a>
