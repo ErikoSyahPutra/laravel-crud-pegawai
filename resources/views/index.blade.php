@@ -25,14 +25,14 @@
  @foreach($pegawai as $p)
 
  <tr>
- <td>{{ $p->pegwai_nama }}</td>
- <td>{{ $p->pegwai_jabatan }}</td>
+ <td>{{ $p->pegawai_nama }}</td>
+ <td>{{ $p->pegawai_jabatan }}</td>
  <td>{{ $p->pegawai_umur }}</td>
- <td>{{ $p->pegwai_alamat }}</td>
+ <td>{{ $p->pegawai_alamat }}</td>
  <td>
- <a href="/pegawai/edit/{{ $p->pegwai_id }}">Edit</a>
+ <a href="/pegawai/edit/{{ $p->pegawai_id }}">Edit</a>
  |
- <a href="/pegawai/hapus/{{ $p->pegwai_id }}">Hapus</a>
+ <a href="/pegawai/hapus/{{ $p->pegawai_id }}">Hapus</a>
  </td>
  </tr>
  @endforeach
