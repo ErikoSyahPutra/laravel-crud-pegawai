@@ -1,3 +1,46 @@
+# Latihan CRUD
+latihan Create Read Update Delete (CRUD) menggunakan Laravel
+
+</br>
+
+## Run the Project Locally
+Follow these steps below to run the project on your local machine
+
+1. Clone the repository
+   
+   ```bash
+   https://github.com/{your_github_username}/laravel-crud-pegawai.git
+   ```
+
+2. Navigate to the project's directory
+   
+   ```bash
+   cd laravel-crud-pegawai
+   ```
+
+3. Install the project's dependency
+   
+   ```bash
+   composer install
+   ```
+   
+4. Run database migration
+   
+   ```bash
+   php artisan migrate
+   ```
+   
+5. Run the app
+   
+   ```bash
+   php artisan serve
+   ```
+   
+6. Open http://localhost:8000 to see the result
+
+</br>
+
+---
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
